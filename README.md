@@ -1,5 +1,6 @@
 👋 Hi, I'm Yogavel D
-Electronics & Code | Exploring the Foundations of VLSI & Semiconductor Engineering
+
+⚡ Electronics & Code | Exploring the Foundations of VLSI & Semiconductor Engineering
 
 I'm a 1st-year B.E. Electronics and Communication Engineering (ECE) student at St. Joseph's College of Engineering, Chennai, with a growing interest in the VLSI and semiconductor industry.
 
