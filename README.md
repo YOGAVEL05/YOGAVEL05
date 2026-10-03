@@ -1,68 +1,58 @@
-👋 HELLO, I'M YOGAVEL D
-Electronics & Communication Engineering Student | Programmer | Technology Enthusiast
-<p align="center"> <i>Learning, building, and growing through technology and engineering.</i> </p>
-👨‍💻 ABOUT ME
+👋 Hi, I'm Yogavel D
+ECE Student • C & Python Learner • Electronics & Technology Enthusiast
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00A8FF&center=true&vCenter=true&width=700&lines=B.E.+Electronics+%26+Communication+Engineering;Learning+C+%26+Python;Building+Projects+and+Strengthening+Fundamentals;Exploring+Electronics+%26+Semiconductor+Technology" alt="Typing SVG" /> </p>
+👨‍💻 About Me
 
-I'm YOGAVEL D, an Electronics and Communication Engineering (ECE) student at St. Joseph's College of Engineering, Chennai.
+I'm Yogavel D, a first-year B.E. Electronics and Communication Engineering student at St. Joseph's College of Engineering, Chennai.
 
-I have a strong interest in electronics, programming, embedded systems, digital technology, VLSI, and semiconductor technology. I enjoy exploring how hardware and software come together to create practical and innovative solutions.
+I'm currently building my foundations in C, Python, programming, problem-solving, and electronics, while exploring the technologies shaping the future of electronics and computing.
 
-Currently, I'm strengthening my programming skills in C and Python while developing a deeper understanding of electronics and modern engineering technologies.
+I enjoy learning through hands-on projects and turning ideas into practical solutions. My goal is to continuously strengthen my fundamentals, explore deeper areas of electronics, and grow into a technically strong engineer.
 
-🛠️ SKILLS & INTERESTS
-💻 Programming
+🛠️ Skills
+<p align="left"> <img src="https://skillicons.dev/icons?i=c,python" /> </p>
 
-C
+C Programming • Python • Problem Solving • Programming Fundamentals • Electronics
 
-Python
+🚀 Featured Project
+🔍 Smart PAN Card OCR
 
-⚡ Electronics & Technology
+A C-based project designed to process a PAN card image and extract relevant information from the document.
 
-Electronics & Communication
+Explored: C Programming • Information Extraction • Image Processing • Logical Problem-Solving
 
-Digital Electronics
+🎓 Education
 
-Embedded Systems
+St. Joseph's College of Engineering, Chennai
 
-VLSI
+B.E. Electronics and Communication Engineering
+2026 – 2030
 
-Semiconductor Technology
+📜 Certification
 
-Computer Architecture
+Diploma in Artificial Intelligence
 
-🎓 EDUCATION
+Completed a 3-month program covering foundational AI concepts and applications.
 
-Bachelor of Engineering — Electronics & Communication Engineering
-🏛️ St. Joseph's College of Engineering, Chennai
+🏆 Achievement
 
-Currently focused on developing strong fundamentals in electronics, programming, digital systems, and emerging technologies.
+Class 12 Public Examination
 
-🚀 CURRENTLY LEARNING
+92.83% overall
 
-Advanced C & Python
+100/100 in Computer Science
 
-Digital Electronics & System Design
+📊 GitHub Statistics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p>
+📚 Currently Learning
 
-Embedded Systems
+C Programming • Python • Problem Solving • Electronics Fundamentals • Practical Project Development
 
-VLSI Fundamentals
+🔭 Looking Ahead
 
-Semiconductor Concepts
+I'm using GitHub to document my learning and projects throughout my engineering journey.
 
-Computer Architecture
+As I progress, I plan to explore digital electronics, hardware technologies, semiconductor systems, and eventually VLSI, while continuously building practical skills.
 
-I'm continuously working on improving my technical knowledge, problem-solving skills, and practical engineering abilities.
-
-🎯 GOALS
-
-My goal is to become a well-rounded engineer with strong foundations in both hardware and software, while gaining practical experience through projects, experimentation, and continuous learning.
-
-I'm particularly interested in exploring opportunities related to:
-
-Electronics • Embedded Systems • VLSI • Semiconductors • Programming
-
-📊 GITHUB
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yogavel05&show_icons=true&hide_border=true&theme=default" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogavel05&layout=compact&hide_border=true&theme=default" height="165"/> </p>
-📫 CONNECT WITH ME
-<p align="center"> <a href="https://github.com/yogavel05"> <img src="https://img.shields.io/badge/GitHub-YOGAVEL05-181717?style=for-the-badge&logo=github"/> </a> </p>
-<p align="center"> <b>⚡ LEARN • BUILD • EXPLORE • INNOVATE</b> </p> <p align="center"> <i>"Turning curiosity into knowledge, and knowledge into solutions."</i> </p>
+🤝 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/yogaveld/"> <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p> <p align="center"> <i>Always learning. Always building. Always improving.</i> </p> <p align="center"> <b>🚀 Building strong foundations today for bigger possibilities tomorrow.</b> </p>
