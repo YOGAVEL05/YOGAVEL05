@@ -1,79 +1,95 @@
 👋 Hi, I'm Yogavel D
+Electronics & Code | Exploring the Foundations of VLSI & Semiconductor Engineering
 
-🎓 Electronics & Semiconductor Enthusiast
+I'm a 1st-year B.E. Electronics and Communication Engineering (ECE) student at St. Joseph's College of Engineering, Chennai, with a growing interest in the VLSI and semiconductor industry.
 
-B.E. ECE Student | C & Python Learner | Electronics Enthusiast | Problem Solver
+Currently, I'm strengthening my foundations in C and Python while exploring the intersection of electronics, programming, and artificial intelligence.
 
-I'm a first-year B.E. Electronics and Communication Engineering student at St. Joseph's College of Engineering, Chennai, building my foundations in programming, electronics, and problem-solving.
+I believe in learning by building — turning concepts into projects, experimenting with technologies, and continuously improving my engineering fundamentals.
 
-I believe that great engineering begins with curiosity, consistency, and the courage to keep learning.
+🧑‍💻 About Me
 
-👨‍💻 About Me
+🎓 1st Year B.E. ECE Student
 
-I'm interested in understanding how technology works and turning what I learn into practical solutions.
+🔬 Aspiring VLSI & Semiconductor Engineer
 
-Currently, I'm strengthening my knowledge of C, Python, programming fundamentals, problem-solving, and electronics while exploring the world of hardware and semiconductor technology.
+💻 Intermediate in C & Python
 
-My goal is to use my engineering journey to continuously learn, build meaningful projects, and develop the technical foundation required for a career in the electronics and semiconductor industry.
+🤖 Interested in Artificial Intelligence
 
-Learn deeply. Build practically. Grow continuously.
+🛠️ Built a Smart PAN Card OCR project
+
+📜 Completed a 3-Month Diploma in Artificial Intelligence
+
+🚀 Exploring the path toward VLSI, IC Design & Semiconductor Technology
 
 ⚡ Tech Stack
-
-C | Python | Problem Solving | Programming Fundamentals | Electronics
-
-📚 Currently Learning
-
-C Programming | Python | Electronics Fundamentals | Digital Electronics | Problem Solving
-
-I'm focused on mastering the fundamentals and gradually progressing toward advanced electronics and hardware technologies.
-
+Programming
+<p> <img src="https://skillicons.dev/icons?i=c,python" /> </p>
+AI & Development
+<p> <img src="https://skillicons.dev/icons?i=opencv,python" /> </p>
+Tools
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,streamlit" /> </p>
 🚀 Featured Project
 🔍 Smart PAN Card OCR
 
-A C-based project designed to process an uploaded PAN card image and extract relevant information from the document.
+An AI-powered application that extracts relevant details from an uploaded PAN card image.
 
-Focus: C Programming | Image Processing | Information Extraction | Problem Solving
+Tech Used:
 
-This project represents one of my early steps toward applying programming concepts to a practical real-world problem.
+Python OpenCV AI Streamlit
 
-🎯 My Goal
+What it does:
 
-My long-term goal is to build a strong career in electronics and semiconductor technology.
+📤 Accepts an uploaded PAN card image
 
-Throughout my B.E. journey, I aim to strengthen my programming and electronics fundamentals, build meaningful projects, explore digital and hardware technologies, and gradually develop expertise in areas connected to the semiconductor industry.
+👁️ Processes the image using computer vision
 
-2026 → 2030
+🔎 Extracts information from the document
 
-Learn → Build → Explore → Specialize → Engineer
+🖥️ Presents the extracted details through a Streamlit interface
 
-📊 GitHub Statistics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOGAVEL05&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOGAVEL05&layout=compact&theme=tokyonight&hide_border=true" width="48%" /> </p> <p align="center"> <i>My statistics grow with every project, contribution, and learning milestone.</i> </p>
-🎓 Education
+A project that helped me explore the practical application of Python, computer vision, AI, and image processing.
 
-St. Joseph's College of Engineering, Chennai
-B.E. Electronics and Communication Engineering | 2026 — 2030
+🎯 Engineering Interests
 
-🏆 Achievement
+My long-term interest lies in the semiconductor and VLSI domain.
 
-92.83% Overall | 100/100 in Computer Science
+I'm particularly interested in gradually exploring:
 
-Class 12 Public Examination
+🔲 Digital VLSI
 
-📜 Certification
+🧩 RTL Design
 
-Diploma in Artificial Intelligence
+💾 IC Design
 
-Completed a 3-month Diploma in Artificial Intelligence, gaining foundational exposure to AI concepts and applications.
+⚙️ FPGA & Digital Systems
 
-🤝 Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/yogaveld/"> <img src="https://img.shields.io/badge/LinkedIn-Yogavel%20D-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> &nbsp; <a href="https://github.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/GitHub-Yogavel%20D-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
-✨ Until Next Time
-<p align="center">
+🧠 Computer Architecture
 
-Thanks for stopping by.
+🏭 Semiconductor Technology
 
-Every line of code is a small step toward the engineer I'm becoming.
+🔬 Chip Design & Verification
 
-🚀 Learning today. Building tomorrow. Engineering the future.
-</p>
+🏆 Certification
+🎓 Diploma in Artificial Intelligence
+
+Completed a 3-month Diploma in Artificial Intelligence, developing foundational knowledge and practical exposure to AI concepts.
+
+📜 Certificate available upon request.
+
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOGAVEL05&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/> <img src="https://streak-stats.demolab.com?user=YOGAVEL05&theme=tokyonight&hide_border=true" height="170"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOGAVEL05&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p>
+📊 Contribution Activity
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOGAVEL05&theme=tokyo-night&hide_border=true&area=true" width="95%"/> </p>
+🏅 GitHub Achievements
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=YOGAVEL05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/> </p>
+💡 My Engineering Mindset
+
+Learn the fundamentals. Build something. Understand what went wrong. Improve. Repeat.
+
+I don't want to simply learn technologies — I want to understand the fundamentals behind them and use that knowledge to build meaningful engineering projects.
+
+🤝 Let's Connect
+<p align="center"> <a href="https://www.linkedin.com/in/yogaveld/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
+<p align="center"> <b>⚡ Building today. Learning every day. Engineering for tomorrow.</b> </p> <p align="center"> <i>Thanks for visiting my profile!</i> 🚀 </p>
