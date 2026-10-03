@@ -1,59 +1,78 @@
-YOGAVEL D
+👋 Hi, I'm Yogavel D
+🎓 Electronics & Semiconductor Enthusiast
 
-Electronics & Communication Engineering Student
+B.E. ECE Student | C & Python Learner | Electronics Enthusiast | Problem Solver
 
-C & Python Learner · Electronics Enthusiast · Problem Solver
+I'm a first-year B.E. Electronics and Communication Engineering student at St. Joseph's College of Engineering, Chennai, building my foundations in programming, electronics, and problem-solving.
 
-👋 About
+I believe that great engineering begins with curiosity, consistency, and the courage to keep learning.
 
-I'm a first-year B.E. Electronics and Communication Engineering student at St. Joseph's College of Engineering, Chennai.
+👨‍💻 About Me
 
-I'm currently focused on strengthening my fundamentals in C, Python, programming, problem-solving, and electronics through continuous learning and hands-on projects.
+I'm interested in understanding how technology works and turning what I learn into practical solutions.
 
-I'm particularly interested in the world of electronics and semiconductor technology, and I'm gradually building the technical foundation needed to explore this field further.
+Currently, I'm strengthening my knowledge of C, Python, programming fundamentals, problem-solving, and electronics while exploring the world of hardware and semiconductor technology.
 
-Learn → Build → Experiment → Improve
+My goal is to use my engineering journey to continuously learn, build meaningful projects, and develop the technical foundation required for a career in the electronics and semiconductor industry.
 
-⚙️ What I Work With
-Area	Currently
-Programming	C, Python
-Core Skills	Problem Solving, Programming Fundamentals
-Engineering	Electronics Fundamentals
-Exploring	Digital Electronics, Semiconductor Technology
+Learn deeply. Build practically. Grow continuously.
+
+⚡ Tech Stack
+
+C | Python | Problem Solving | Programming Fundamentals | Electronics
+
+📚 Currently Learning
+
+C Programming | Python | Electronics Fundamentals | Digital Electronics | Problem Solving
+
+I'm focused on mastering the fundamentals and gradually progressing toward advanced electronics and hardware technologies.
+
 🚀 Featured Project
+🔍 Smart PAN Card OCR
 
-Smart PAN Card OCR
+A C-based project designed to process an uploaded PAN card image and extract relevant information from the document.
 
-A C-based project designed to process a PAN card image and extract relevant information.
+Focus: C Programming | Image Processing | Information Extraction | Problem Solving
 
-C Image Processing Information Extraction Problem Solving
+This project represents one of my early steps toward applying programming concepts to a practical real-world problem.
 
+🎯 My Goal
+
+My long-term goal is to build a strong career in electronics and semiconductor technology.
+
+Throughout my B.E. journey, I aim to strengthen my programming and electronics fundamentals, build meaningful projects, explore digital and hardware technologies, and gradually develop expertise in areas connected to the semiconductor industry.
+
+2026 → 2030
+
+Learn → Build → Explore → Specialize → Engineer
+
+📊 GitHub Statistics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOGAVEL05&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOGAVEL05&layout=compact&theme=tokyonight&hide_border=true" width="48%" /> </p> <p align="center"> <i>My statistics grow with every project, contribution, and learning milestone.</i> </p>
 🎓 Education
 
 St. Joseph's College of Engineering, Chennai
-B.E. Electronics and Communication Engineering
-2026 — 2030
+B.E. Electronics and Communication Engineering | 2026 — 2030
+
+🏆 Achievement
+
+92.83% Overall | 100/100 in Computer Science
+
+Class 12 Public Examination
 
 📜 Certification
 
 Diploma in Artificial Intelligence
-3-month program covering foundational AI concepts and applications.
 
-🏆 Academic Achievement
+Completed a 3-month Diploma in Artificial Intelligence, gaining foundational exposure to AI concepts and applications.
 
-92.83% — Class 12 Overall
-100/100 — Computer Science
+🤝 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/yogaveld/"> <img src="https://img.shields.io/badge/LinkedIn-Yogavel%20D-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> &nbsp; <a href="https://github.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/GitHub-Yogavel%20D-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
+✨ Until Next Time
+<p align="center">
 
-📊 GitHub Statistics
-<p align="center"> <img src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=YOUR_USERNAME&show_icons=true" width="48%" /> <img src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=YOUR_USERNAME" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=YOUR_USERNAME" width="48%" /> </p>
-🔭 Current Focus
+Thanks for stopping by.
 
-01 — Strengthen C & Python
-02 — Build practical projects
-03 — Develop electronics fundamentals
-04 — Explore digital electronics
-05 — Gradually move toward semiconductor technology
+Every line of code is a small step toward the engineer I'm becoming.
 
-🌐 Connect With Me
-<p align="left"> <a href="https://www.linkedin.com/in/yogaveld/"> <img src="https://img.shields.io/badge/LinkedIn-Yogavel%20D-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
-<p align="center"> <strong>Building strong foundations for bigger ideas.</strong> </p> <p align="center"> <sub>© Yogavel D · 2026</sub> </p>
+🚀 Learning today. Building tomorrow. Engineering the future.
+</p>
