@@ -57,9 +57,10 @@ An OCR-based project designed to extract information from an uploaded PAN card i
 
 ---
 
+
 ## 📈 Contribution Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOGAVEL05&theme=tokyo-night&hide_border=true&area=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YOGAVEL05&theme=tokyonight&hide_border=true)](https://github.com/YOGAVEL05)
 
 ---
 
