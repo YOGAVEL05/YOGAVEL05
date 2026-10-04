@@ -1,89 +1,92 @@
-👋 Hi, I'm Yogavel D
+# 👋 Hi, I'm YOGAVEL!
 
-⚡ Electronics & Code | ECE Student | VLSI & Semiconductor Explorer
+### 🎓 First-Year ECE Student | ⚡ Aspiring VLSI & Semiconductor Professional
 
-I'm a 1st-year B.E. Electronics and Communication Engineering (ECE) student at St. Joseph's College of Engineering, Chennai, with a strong interest in the VLSI and semiconductor industry.
+I'm a first-year **Electronics and Communication Engineering (ECE)** student at **St. Joseph's College of Engineering, Chennai**.
 
-I enjoy working at the intersection of electronics, programming, and artificial intelligence, while building a strong foundation in C and Python.
+I'm interested in **VLSI design and the semiconductor industry**. I'm continuously developing my programming skills and strengthening my technical foundation.
 
-I believe in learning by building — turning concepts into projects, experimenting with technology, and continuously improving my engineering fundamentals.
+---
 
-🧑‍💻 About Me
+## 🚀 About Me
 
-🎓 1st Year B.E. Electronics & Communication Engineering Student
+- 🎓 **Education:** B.E. Electronics and Communication Engineering
+- 🏫 **College:** St. Joseph's College of Engineering, Chennai
+- ⚡ **Career Interests:** VLSI Design & Semiconductor Technology
+- 🤖 **Additional Learning:** Diploma in Artificial Intelligence — 3-month course completed at Microtech Computer Education
+- 💻 **Programming Languages:** C and Python
+- 🛠️ **Tools:** GitHub and VS Code
 
-🏫 St. Joseph's College of Engineering, Chennai
+---
 
-🔬 Interested in VLSI & Semiconductor Engineering
+## 🧰 Tech Stack
 
-💻 Intermediate in C & Python
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-🤖 Interested in Artificial Intelligence & Computer Vision
+---
 
-🛠️ Built a Smart PAN Card OCR project
+## 🏗️ Project Experience
 
-📜 Completed a 3-Month Diploma in Artificial Intelligence
+### 🤖 Smart PAN Card OCR
 
-🚀 Passionate about learning, building, and exploring engineering technologies
+An OCR-based project designed to extract information from an uploaded PAN card image using **Optical Character Recognition (OCR)**.
 
-🚀 Featured Project
-🔍 Smart PAN Card OCR
+- 🔹 **My Contribution:** Developed most of the project.
+- 🔹 **Project Hosting:** The repository is currently on my friend's GitHub account.
 
-An AI-powered application designed to extract relevant details from an uploaded PAN card image.
+---
 
-Built With
+## 🎓 Education & Training
 
-Python OpenCV AI Streamlit
+### Diploma in Artificial Intelligence
 
-Key Features
+- 🏢 **Provider:** Microtech Computer Education
+- ⏳ **Duration:** 3 months
+- ✅ **Status:** Completed
 
-📤 Upload a PAN card image
+---
 
-👁️ Process the image using computer vision
+## 📊 GitHub Stats
 
-🔎 Extract information from the document
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOGAVEL05&show_icons=true&theme=tokyonight&hide_border=true)
 
-🖥️ Display extracted details through a Streamlit interface
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOGAVEL05&layout=compact&theme=tokyonight&hide_border=true)
 
-A practical project that allowed me to explore Python, computer vision, AI, image processing, and application development.
+---
 
-🎯 Engineering Interests
+## 📈 Contribution Activity
 
-I'm particularly interested in the intersection of electronics and computing, with a long-term focus on the semiconductor ecosystem.
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOGAVEL05&theme=tokyo-night&hide_border=true&area=true)
 
-🔲 Digital VLSI
+---
 
-🧩 RTL Design
+## 🌐 Connect With Me
 
-💾 IC Design
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogaveld/)
 
-⚙️ FPGA & Digital Systems
+[![GitHub](https://img.shields.io/badge/GitHub-YOGAVEL05-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOGAVEL05)
 
-🧠 Computer Architecture
+---
 
-🏭 Semiconductor Technology
+<div align="center">
 
-🔬 Chip Design & Verification
+---
 
-🏆 Certification
-🎓 Diploma in Artificial Intelligence
+<div align="center">
 
-Completed a 3-month Diploma in Artificial Intelligence, gaining foundational knowledge and practical exposure to AI concepts.
+### 🙏 Thank You for Visiting My Profile!
 
-📜 Certificate available upon request.
+Thank you for taking the time to explore my GitHub profile and projects.
+I'm always eager to learn, collaborate, and build meaningful technology.
+Feel free to connect with me and follow my journey in **VLSI and Semiconductor Technology**.
 
-📊 GitHub Statistics
-<p align="center"> <a href="https://github.com/YOGAVEL05"> <img src="https://github-readme-stats.vercel.app/api?username=YOGAVEL05&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/> </a> <a href="https://github.com/YOGAVEL05"> <img src="https://streak-stats.demolab.com?user=YOGAVEL05&theme=tokyonight&hide_border=true" height="180"/> </a> </p> <p align="center"> <a href="https://github.com/YOGAVEL05"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOGAVEL05&layout=compact&theme=tokyonight&hide_border=true" height="180"/> </a> </p>
-📈 Contribution Activity
-<p align="center"> <a href="https://github.com/YOGAVEL05"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOGAVEL05&theme=tokyo-night&hide_border=true&area=true" width="95%"/> </a> </p>
-🏅 GitHub Achievements
-<p align="center"> <a href="https://github.com/YOGAVEL05?tab=repositories"> <img src="https://github-profile-trophy.vercel.app/?username=YOGAVEL05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/> </a> </p>
-💡 Engineering Mindset
+**Let's learn, innovate, and grow together! 🚀**
 
-Learn the fundamentals. Build something. Understand what went wrong. Improve. Repeat.
+</div>
 
-I believe strong engineering comes from understanding the fundamentals, experimenting with ideas, and turning knowledge into practical projects.
+⭐ *Learning today, building tomorrow. Always curious, always improving!*
 
-🔗 Connect With Me
-<p align="center"> <a href="https://github.com/YOGAVEL05"> <img src="https://img.shields.io/badge/GitHub-YOGAVEL05-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/yogaveld/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
-<p align="center"> <b>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</b> </p> <h3 align="center">✨ Thanks for stopping by!</h3> <p align="center"> <i>Every project is a step forward, every challenge is a lesson, and every line of code is part of the journey.</i> </p> <p align="center"> <b>⚡ Keep Building • Keep Learning • Keep Engineering</b> </p> <p align="center"> <b>— Yogavel D —</b> </p> <p align="center"> <b>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</b> </p>
+</div>
