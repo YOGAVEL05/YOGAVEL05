@@ -74,20 +74,15 @@ An OCR-based project designed to extract information from an uploaded PAN card i
 
 <div align="center">
 
+
 ---
 
 <div align="center">
 
-### 🙏 Thank You for Visiting My Profile!
+### ⚡ Thanks for Stopping By!
 
-Thank you for taking the time to explore my GitHub profile and projects.
-I'm always eager to learn, collaborate, and build meaningful technology.
-Feel free to connect with me and follow my journey in **VLSI and Semiconductor Technology**.
+Always learning. Always building. Always exploring what's next. 🚀
 
-**Let's learn, innovate, and grow together! 🚀**
-
-</div>
-
-⭐ *Learning today, building tomorrow. Always curious, always improving!*
+**Let's connect, collaborate, and create something impactful.**
 
 </div>
