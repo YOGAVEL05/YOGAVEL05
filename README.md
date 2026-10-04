@@ -72,10 +72,6 @@ An OCR-based project designed to extract information from an uploaded PAN card i
 
 ---
 
-<div align="center">
-
-
----
 
 <div align="center">
 
